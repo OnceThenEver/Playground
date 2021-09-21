@@ -8,6 +8,5 @@ public:
 
 int main(int argc, char const *argv[])
 {
-    printf("%s\n", "It's C_Lab.");
     return 0;
 }
