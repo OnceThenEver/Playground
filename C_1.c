@@ -1,7 +1,4 @@
-#include "C_2.c"
-
-int *hi()
+int main(void)
 {
-    static int a = 39;
-    return &a;
+    return 0;
 }
