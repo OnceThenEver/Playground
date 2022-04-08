@@ -1,1 +1,1 @@
-extern int a;
+int a;
